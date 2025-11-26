@@ -1,0 +1,1 @@
+# FastAPI React PostgreSQL Boilerplate
