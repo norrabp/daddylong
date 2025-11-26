@@ -158,6 +158,3 @@ cd backend
 uv run alembic revision --autogenerate -m "Description"
 uv run alembic upgrade head
 ```
-
-## License
-MIT
